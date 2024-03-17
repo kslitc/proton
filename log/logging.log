@@ -1,0 +1,69 @@
+2024-03-17 01:35:36 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:35:37 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:35:38 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:35:39 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:35:41 INFO  ProtonLibraryTest:81 - Get current plan prices
+2024-03-17 01:35:41 INFO  ProtonLibraryTest:71 - Select period with 1 month
+2024-03-17 01:35:41 INFO  ProtonLibraryTest:130 - Plan prices are different from the default ones
+2024-03-17 01:35:43 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:35:45 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:35:46 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:35:47 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:35:49 INFO  ProtonLibraryTest:81 - Get current plan prices
+2024-03-17 01:35:49 INFO  ProtonLibraryTest:71 - Select period with 12 months
+2024-03-17 01:35:49 INFO  ProtonLibraryTest:130 - Plan prices are different from the default ones
+2024-03-17 01:35:51 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:35:53 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:35:54 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:35:54 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:35:56 INFO  ProtonLibraryTest:81 - Get current plan prices
+2024-03-17 01:35:56 INFO  ProtonLibraryTest:71 - Select period with 24 months
+2024-03-17 01:35:56 INFO  ProtonLibraryTest:130 - Plan prices are different from the default ones
+2024-03-17 01:35:58 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:00 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:01 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:01 INFO  ProtonLibraryTest:58 - Click Families
+2024-03-17 01:36:03 INFO  ProtonLibraryTest:93 - Url is https://proton.me/family
+2024-03-17 01:36:03 INFO  ProtonLibraryTest:106 - Content is not empty
+2024-03-17 01:36:06 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:07 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:08 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:08 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:36:10 INFO  ProtonLibraryTest:93 - Url is https://proton.me/business/plans
+2024-03-17 01:36:11 INFO  ProtonLibraryTest:106 - Content is not empty
+2024-03-17 01:36:13 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:15 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:16 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:16 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:36:18 INFO  ProtonLibraryTest:71 - Select currency with USD
+2024-03-17 01:36:18 INFO  ProtonLibraryTest:119 - Plans are in $ for Businesses
+2024-03-17 01:36:21 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:22 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:24 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:24 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:36:26 INFO  ProtonLibraryTest:71 - Select currency with EUR
+2024-03-17 01:36:26 INFO  ProtonLibraryTest:119 - Plans are in € for Businesses
+2024-03-17 01:36:29 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:30 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:31 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:32 INFO  ProtonLibraryTest:58 - Click Businesses
+2024-03-17 01:36:33 INFO  ProtonLibraryTest:71 - Select currency with CHF
+2024-03-17 01:36:34 INFO  ProtonLibraryTest:119 - Plans are in CHF for Businesses
+2024-03-17 01:36:37 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:38 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:40 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:40 INFO  ProtonLibraryTest:58 - Click Families
+2024-03-17 01:36:42 INFO  ProtonLibraryTest:71 - Select currency with USD
+2024-03-17 01:36:42 INFO  ProtonLibraryTest:119 - Plans are in $ for Families
+2024-03-17 01:36:45 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:46 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:48 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:48 INFO  ProtonLibraryTest:58 - Click Families
+2024-03-17 01:36:50 INFO  ProtonLibraryTest:71 - Select currency with EUR
+2024-03-17 01:36:50 INFO  ProtonLibraryTest:119 - Plans are in € for Families
+2024-03-17 01:36:53 INFO  ProtonLibraryTest:46 - Go to https://proton.me/
+2024-03-17 01:36:54 INFO  ProtonLibraryTest:58 - Click Email
+2024-03-17 01:36:55 INFO  ProtonLibraryTest:58 - Click Pricing
+2024-03-17 01:36:56 INFO  ProtonLibraryTest:58 - Click Families
+2024-03-17 01:36:57 INFO  ProtonLibraryTest:71 - Select currency with CHF
+2024-03-17 01:36:58 INFO  ProtonLibraryTest:119 - Plans are in CHF for Families
